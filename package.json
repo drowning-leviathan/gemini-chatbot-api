@@ -1,0 +1,27 @@
+{
+    "name": "gemini-chatbot-api",
+    "version": "1.0.0",
+    "description": "Hacktiv8 Final Project",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/drowning-leviathan/gemini-chatbot-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/drowning-leviathan/gemini-chatbot-api/issues"
+    },
+    "homepage": "https://github.com/drowning-leviathan/gemini-chatbot-api#readme",
+    "dependencies": {
+        "@google/genai": "^2.10.0",
+        "cors": "^2.8.6",
+        "dotenv": "^17.4.2",
+        "express": "^5.2.1"
+    }
+}
